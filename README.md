@@ -10,22 +10,22 @@ I love learning new skills and take pride on my determination and adaptability.
 
 ## My Projects
 
-**Light Lock**
+**Light Lock:** **https://github.com/MiguelStcruz/LightLock.git**
 
 A co-op, puzzle solver game.
 
 
-**AR Snakes & Ladders**
+**AR Snakes & Ladders:** **https://github.com/MiguelStcruz/Snakes-LaddersAR.git**
 
 In this Humber College project, the goal was to develop an augmented reality app of an existing board game.
 
 
-**Soul Fighter**
+**Soul Fighter:** **https://github.com/MiguelStcruz/SoulFighter.git**
 
 A recreation of a level from a classic, old-school videogame.
 
 
-**Yeti Run**
+**Yeti Run:** **https://github.com/MiguelStcruz/YetiRun.git**
 
 A game developed only in C++ and my Humber College midstone project.
 
